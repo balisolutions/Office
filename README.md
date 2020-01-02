@@ -11,7 +11,7 @@ All files related to VBA which are work of me :D
 Vaya el file es solo en access, guarda la información ahí mismo en la tabla 
 **AppointmenRaw**, luego la vista **GetAppointment** trae el formato que vos queres que salga y el formulario es **NewAppointment**
 
-![Leiva - Appointment Tracker](assets/Leiva - Appointment Tracker [1].png)
+![Leiva - Appointment Tracker](https://github.com/balisolutions/Office/blob/master/assets/Leiva%20-%20Appointment%20Tracker%20%5B1%5D.png)
 
 Hay varias tablas escondidas como las listas de Intervalos o Status que sirven para las opciones del formulario que la podes ver así:
 
